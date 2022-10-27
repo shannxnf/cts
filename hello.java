@@ -1,8 +1,7 @@
 public class hello {
-
-public static void main (String[] args) {
+ public static void main (String[] args) {
  
-system.out.println("Hello Java");
+System.out.println("Hello Java");
 
 }
 
